@@ -7,7 +7,7 @@ Version 0.1
 
 * Michael Ergorov (https://github.com/michwill)
 * MacLane Wilkison (https://github.com/mswilkison)
-* Eliot Weber (https://github.com/)
+* Eliot Weber (https://github.com/eliotweber)
 * Taariq Lewis (https://github.com/taariq)
 
 
